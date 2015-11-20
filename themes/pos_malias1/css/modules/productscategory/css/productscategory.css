@@ -1,0 +1,15 @@
+#productscategory_list {
+	position:relative;
+}
+#productscategory_list .product-name {
+ }
+  #productscategory_list .product-name a {
+   }
+    #productscategory_list .product-name a:hover {
+   }
+#productscategory_list .exclusive span {
+ }
+  #productscategory_list .exclusive span:focus, #productscategory_list .exclusive span:active {
+    text-decoration: none; }
+
+/*# sourceMappingURL=productscategory.css.map */

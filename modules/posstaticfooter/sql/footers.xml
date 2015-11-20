@@ -1,0 +1,345 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>footer_bar_col1</identify>
+		<hook_position>blockFooter1</hook_position>
+		<name_module>blocknewsletter</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>footer_bar_col2</identify>
+		<hook_position>blockFooter1</hook_position>
+		<name_module>blocksocial</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>footer_static_col1</identify>
+		<hook_position>blockFooter2</hook_position>
+		<name_module>blockcms</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>4</id_posstaticblock>
+		<identify>footer_static_col2</identify>
+		<hook_position>blockFooter2</hook_position>
+		<name_module>blockmyaccountfooter</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>5</id_posstaticblock>
+		<identify>footer_static_col3</identify>
+		<hook_position>blockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>6</id_posstaticblock>
+		<identify>footer_static_col4</identify>
+		<hook_position>blockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>7</id_posstaticblock>
+		<identify>footer_bottom</identify>
+		<hook_position>blockFooter3</hook_position>
+		<name_module></name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	
+<!-- block language configuration -->
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Bar Col1</title>
+		<description>
+			<![CDATA[
+			
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>footer_bar_col2</title>
+		<description>
+			<![CDATA[
+				
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col1</title>
+		<description>
+			<![CDATA[
+			
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col2</title>
+		<description>
+			<![CDATA[
+			
+				]]>
+		</description>
+	</block_language>	
+	<block_language>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col3</title>
+		<description>
+			<![CDATA[
+			<div class=" static-footer footer-block col-sm-6 col-md-3 col-sms-6 col-smb-12">
+			<h4 class="footer-static-title">Payment Shipping</h4>
+			<div class="block_content toggle-footer">
+			<ul>
+			<li class="first"><a href="#">Term of Use</a></li>
+			<li><a href="#">Payment Methods</a></li>
+			<li><a href="#">Shipping Guide</a></li>
+			<li><a href="#">Locations We Ship To</a></li>
+			<li class="last"><a href="#">Estimated Delivery Time</a></li>
+			</ul>
+			</div>
+			</div>	
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col4</title>
+		<description>
+			<![CDATA[
+			<div class=" static-footer  footer-block col-sm-6 col-md-3 col-sms-6 col-smb-12">
+			<h4 class="footer-static-title">CONTACT US</h4>
+			<div class=" contact_us block_content toggle-footer">
+			<div class="address add"><label>address: </label>
+			<p>Lorem ipsum dolor sit amet, Onsectetuer adipiscing elit. On the other so hand, we denounce</p>
+			</div>
+			<div class="email add"><label>email: </label> <a href="#">Support@plazathemes.com</a></div>
+			<div class="phone add"><label>phone: </label>
+			<p>(800) 0123 456 789</p>
+			</div>
+			</div>
+			</div>
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Bottom</title>
+		<description>
+			<![CDATA[
+			<address>Copyright © 2015 <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</address>
+			<ul class="payment">
+			<li><a href="#"><img src="/pos_malias/img/cms/payment.png" alt="" /></a></li>
+			</ul>
+				]]>
+		</description>
+	</block_language>
+	
+	
+<!-- block language configuration -->
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Bar Col1</title>
+		<description>
+			<![CDATA[
+			
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>footer_bar_col2</title>
+		<description>
+			<![CDATA[
+				
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col1</title>
+		<description>
+			<![CDATA[
+			
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col2</title>
+		<description>
+			<![CDATA[
+			
+				]]>
+		</description>
+	</block_language>	
+	<block_language>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col3</title>
+		<description>
+			<![CDATA[
+			<div class=" static-footer footer-block col-sm-6 col-md-3 col-sms-6 col-smb-12">
+			<h4 class="footer-static-title">Payment Shipping</h4>
+			<div class="block_content toggle-footer">
+			<ul>
+			<li class="first"><a href="#">Term of Use</a></li>
+			<li><a href="#">Payment Methods</a></li>
+			<li><a href="#">Shipping Guide</a></li>
+			<li><a href="#">Locations We Ship To</a></li>
+			<li class="last"><a href="#">Estimated Delivery Time</a></li>
+			</ul>
+			</div>
+			</div>	
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col4</title>
+		<description>
+			<![CDATA[
+			<div class=" static-footer  footer-block col-sm-6 col-md-3 col-sms-6 col-smb-12">
+			<h4 class="footer-static-title">CONTACT US</h4>
+			<div class=" contact_us block_content toggle-footer">
+			<div class="address add"><label>address: </label>
+			<p>Lorem ipsum dolor sit amet, Onsectetuer adipiscing elit. On the other so hand, we denounce</p>
+			</div>
+			<div class="email add"><label>email: </label> <a href="#">Support@plazathemes.com</a></div>
+			<div class="phone add"><label>phone: </label>
+			<p>(800) 0123 456 789</p>
+			</div>
+			</div>
+			</div>
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Bottom</title>
+		<description>
+			<![CDATA[
+			<address>Copyright © 2015 <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</address>
+			<ul class="payment">
+			<li><a href="#"><img src="/pos_malias/img/cms/payment.png" alt="" /></a></li>
+			</ul>
+				]]>
+		</description>
+	</block_language>
+	
+	
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_shop>2</id_shop>
+	</block_shop>
+	
+	
+
+</pos_static_blocks>

@@ -1,0 +1,18 @@
+.tags_block .block_content {
+  overflow: hidden; }
+  .tags_block .block_content a {
+	display: inline-block !important;
+	line-height: 35px;
+	margin: 5px 5px 0 0;
+	color: #838383;
+	display: block;
+	padding: 0 10px;
+	background: #efefef;
+	text-transform: capitalize;
+ }
+   .tags_block .block_content a:hover {
+	background: #26acce;
+	color: #fff;
+ }
+
+/*# sourceMappingURL=blocktags.css.map */

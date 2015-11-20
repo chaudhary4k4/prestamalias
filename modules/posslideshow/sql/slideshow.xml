@@ -1,0 +1,160 @@
+<pos_slideshow>
+<!-- slideshow  configuration -->
+	<slideshow>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<porder>1</porder>
+		<active>1</active>
+	</slideshow>
+	<slideshow>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<porder>1</porder>
+		<active>1</active>
+	</slideshow>
+	<slideshow>
+		<id_pos_slideshow>3</id_pos_slideshow>
+		<porder>1</porder>
+		<active>1</active>
+	</slideshow>
+	
+	
+<!-- language 1 -->
+	<slideshow_lang>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_lang>1</id_lang>
+		<title>Slide show1</title>
+		<link>#</link>
+		<description>
+		<![CDATA[
+		<div class="banner7-content slider-1">
+		<div class="title-container">
+		<h1 class="title1">buy air Lacote</h1>
+		<h2 class="title2">super tablet, super gift</h2>
+		</div>
+		<div class="banner7-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</div>
+		<div class="banner7-readmore"><a title="Read more" href="http://posthemes.com/">shop now</a></div>
+		</div>	
+		]]>
+		</description>
+	</slideshow_lang>
+	<slideshow_lang>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_lang>1</id_lang>
+		<title>Slide show2</title>
+		<link>#</link>
+		<description>
+		<![CDATA[
+		<div class="banner7-content slider-2">
+		<div class="title-container">
+		<h1 class="title1">Waterproof Smartphone</h1>
+		<div class="banner7-des">Products are eye-catching design. you can take photos even when you go swimming</div>
+		<div class="banner7-readmore"><a title="Read more" href="http://posthemes.com/">shop now</a></div>
+		</div>
+		</div>	
+		]]>
+		</description>
+	</slideshow_lang>
+	<slideshow_lang>
+		<id_pos_slideshow>3</id_pos_slideshow>
+		<id_lang>1</id_lang>
+		<title>Slide show3</title>
+		<link>#</link>
+		<description>
+		<![CDATA[
+		<div class="banner7-content slider-3">
+		<div class="title-container">
+		<h1 class="title1">Lumia 888 DESign</h1>
+		</div>
+		<div class="banner7-des">
+		<p>Elegant design for business</p>
+		<span class="price">$966.82</span></div>
+		<div class="banner7-readmore"><a title="Read more" href="http://www.plazathemes.com/">shop now</a></div>
+		</div>		
+		]]>
+		</description>
+	</slideshow_lang>
+	
+<!--  language 2  -->
+	<slideshow_lang>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_lang>2</id_lang>
+		<title>Slide show1</title>
+		<link>#</link>
+		<description>
+		<![CDATA[
+		<div class="banner7-content slider-1">
+		<div class="title-container">
+		<h1 class="title1">buy air Lacote</h1>
+		<h2 class="title2">super tablet, super gift</h2>
+		</div>
+		<div class="banner7-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</div>
+		<div class="banner7-readmore"><a title="Read more" href="http://posthemes.com/">shop now</a></div>
+		</div>	
+		]]>
+		</description>
+	</slideshow_lang>
+	<slideshow_lang>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_lang>2</id_lang>
+		<title>Slide show2</title>
+		<link>#</link>
+		<description>
+		<![CDATA[
+		<div class="banner7-content slider-2">
+		<div class="title-container">
+		<h1 class="title1">Waterproof Smartphone</h1>
+		<div class="banner7-des">Products are eye-catching design. you can take photos even when you go swimming</div>
+		<div class="banner7-readmore"><a title="Read more" href="http://posthemes.com/">shop now</a></div>
+		</div>
+		</div>	
+		]]>
+		</description>
+	</slideshow_lang>
+	<slideshow_lang>
+		<id_pos_slideshow>3</id_pos_slideshow>
+		<id_lang>2</id_lang>
+		<title>Slide show3</title>
+		<link>#</link>
+		<description>
+		<![CDATA[
+		<div class="banner7-content slider-3">
+		<div class="title-container">
+		<h1 class="title1">Lumia 888 DESign</h1>
+		</div>
+		<div class="banner7-des">
+		<p>Elegant design for business</p>
+		<span class="price">$966.82</span></div>
+		<div class="banner7-readmore"><a title="Read more" href="http://www.plazathemes.com/">shop now</a></div>
+		</div>		
+		]]>
+		</description>
+	</slideshow_lang>
+	
+<!-- slideshop configuration -->
+	<slideshow_shop>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+    <slideshow_shop>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+	<slideshow_shop>
+		<id_pos_slideshow>3</id_pos_slideshow>
+		<id_shop>1</id_shop>
+	</slideshow_shop>
+	
+		<slideshow_shop>
+		<id_pos_slideshow>1</id_pos_slideshow>
+		<id_shop>2</id_shop>
+	</slideshow_shop>
+    <slideshow_shop>
+		<id_pos_slideshow>2</id_pos_slideshow>
+		<id_shop>2</id_shop>
+	</slideshow_shop>
+	<slideshow_shop>
+		<id_pos_slideshow>3</id_pos_slideshow>
+		<id_shop>2</id_shop>
+	</slideshow_shop>
+
+	  
+</pos_slideshow>

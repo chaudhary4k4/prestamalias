@@ -1,0 +1,27 @@
+
+/*   @media (max-width: 479px) {
+    #languages-block-top {
+      width: 25%; } } */
+  #languages-block-top span.firstWord {
+    display: none; }
+
+    @media (max-width: 479px) {
+      #languages-block-top div.current {
+        text-align: center;
+
+        font-size: 11px; } }
+    #languages-block-top div.current strong {
+      color: #777777; }
+  
+      @media (max-width: 479px) {
+        #languages-block-top div.current:after {
+          padding-left: 2px;
+          font-size: 13px;
+          line-height: 13px;
+          vertical-align: 0; } }
+/*     @media (max-width: 479px) {
+      #languages-block-top div.current .cur-label {
+        display: none; } } */
+
+
+/*# sourceMappingURL=blocklanguages.css.map */

@@ -1,0 +1,67 @@
+/* jQuery Countdown styles 2.0.0. */
+
+.is-countdown {
+position: absolute;
+bottom: 0;
+left: -13px;
+right: -13px;
+}
+.pos-special-product .is-countdown{padding-top: 0;font-size: 16px!important;}
+.countdown-rtl {
+	direction: rtl;
+}
+.countdown-holding span {
+	color: #888;
+}
+.countdown-row {
+	clear: both;
+	width: 100%;
+	text-align: center;
+
+}
+#product .countdown-row{background: none;}
+.countdown-show1 .countdown-section {
+	width: 100%;
+}
+.countdown-show2 .countdown-section {
+	width: 50%;
+}
+.countdown-show3 .countdown-section {
+	width: 33.33%;
+}
+.countdown-show4 .countdown-section {
+	width: 25%;
+}
+#product .countdown-show4 .countdown-section{width: auto;}
+.countdown-show5 .countdown-section {
+	width: 19.5%;
+}
+.countdown-show6 .countdown-section {
+	width: 16.25%;
+}
+.countdown-show7 .countdown-section {
+	width: 14%;
+}
+.countdown-section {
+	 background: #ed7987;
+	 font-size: 13px; 
+	 font-family: Raleway; 
+	 font-weight: 400; color: #fff;  
+	 float: left;
+	 min-height: 56px; text-align: center; 
+	 border-right: 1px solid #f19da7; 
+}
+
+.countdown-amount {
+display: block; font-size: 20px; color: #fff; margin-top: 8px; font-family: Roboto; font-weight: 700; 
+}
+.countdown-period {
+    display: block;
+    font-size: 13px;
+	margin-top:6px;
+}
+.countdown-descr {
+	display: block;
+	width: 100%;
+}
+#defaultCountdown { width: 240px; height: 45px; }
